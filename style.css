@@ -228,6 +228,12 @@ body {
   color: teal;
   font-size: 24px;
   text-align: center;
+  transition: ease-in-out .5s;
+}
+
+.portfolio-button:hover {
+  color: aqua;
+  transition: ease-in-out .5s;
 }
 
 #fourth {
